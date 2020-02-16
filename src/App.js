@@ -16,8 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
-          i was changed on the feature branch
+          learn react Hello React with docker using travic ci/cd pipeline deployed in aws elasticbeanstalk
         </a>
       </header>
     </div>
