@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          learn react Hello React with docker using travic ci/cd pipeline deployed in aws elasticbeanstalk
+          React App Setup with docker using travic CI/CD pipeline to deploy in AWS elasticbeanstalk
         </a>
       </header>
     </div>
