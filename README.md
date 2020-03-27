@@ -35,6 +35,3 @@ See the screenshots folder for detailed instructions.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-## License
-This project is licensed under the GNU General Public License - see the [LICENSE](LICENSE) file for details
